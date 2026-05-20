@@ -1,0 +1,2 @@
+# OWAP_ASVS_JP
+OWASPの日本語訳など
